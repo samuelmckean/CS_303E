@@ -1,0 +1,11 @@
+DNA sequence pair 0:
+AGC
+TCG
+
+DNA sequence pair 1:
+No matches found
+
+DNA sequence pair 2:
+GGAC
+CCTG
+
